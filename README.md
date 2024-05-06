@@ -29,7 +29,12 @@ Build the Neural Model using Convolutional Layer Pooling Layer Up Sampling Layer
 ### STEP 5:
 Pass test data for validating manually. Step 6: Plot the predictions for visualization.
 
-## PROGRAM
+## PROGRAM:
+```
+DEVELOPED BY: PAVITHRA R
+REG NO:212222230106
+
+```
 ```
 from tensorflow import keras
 from tensorflow.keras import layers
